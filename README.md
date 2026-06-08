@@ -20,9 +20,9 @@ Every query the team answers once becomes a permanent asset. Subsequent interns 
 
 ---
 
-## Community Contributions
+-- ## Community Contributions
 
-- Contributions from students and open-source enthusiasts are always welcome.
+- Contribution from students and open-source enthusiasts are always welcome.
 
 
 ## Design Philosophy & Theme
