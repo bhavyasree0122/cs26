@@ -20,6 +20,11 @@ Every query the team answers once becomes a permanent asset. Subsequent interns 
 
 ---
 
+## Community Contributions
+
+- Contributions from students and open-source enthusiasts are always welcome.
+
+
 ## Design Philosophy & Theme
 - **Strict Monochrome**: Sleek, premium dark/light mode styled entirely with CSS custom properties (variables) under WCAG AA compliance.
 - **Micro-animations**: Enhanced transition states, real-time Socket.io state synchronization, and audio voice playback (en-IN accent adapter pattern).
