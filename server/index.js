@@ -14,7 +14,7 @@ const adminRoutes = require('./routes/admin');
 const threadRoutes = require('./routes/threads');
 const ragRoutes   = require('./routes/rag');
 const contributerName = 'Hello';
-const contributerName = 'Nobitha';
+const contributerName = 'Nobithaa';
 const app    = express();
 const server = http.createServer(app);
 
